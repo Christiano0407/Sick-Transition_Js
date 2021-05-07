@@ -19,6 +19,9 @@ SICK Transitions with Javascript and  GSAP Flip Plugin.
 - [TinyPNG](https://tinypng.com/)
 # CDN
 - [CDNjs](https://cdnjs.com/)
+
+# Visited
+- [Awwards](https://www.awwwards.com/)
 # MIT LICENSE
 
 - [Choosealicense](https://choosealicense.com/)
