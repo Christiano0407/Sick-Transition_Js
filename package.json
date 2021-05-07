@@ -1,0 +1,22 @@
+{
+  "name": "sick-transition_js",
+  "version": "1.0.0",
+  "description": "Project_javascript",
+  "main": "src/js/index.js",
+  "scripts": {
+    "sick": "node src/js/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Christiano0407/Sick-Transition_Js.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Chris04",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Christiano0407/Sick-Transition_Js/issues"
+  },
+  "homepage": "https://github.com/Christiano0407/Sick-Transition_Js#readme"
+}
